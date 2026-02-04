@@ -2,6 +2,8 @@
 
 **Traditional security is reactive; SĀVI-Shield is proactive.** Built for the GUVI HCL Hackathon 2026, SĀVI-Shield is a high-fidelity cybersecurity engine that deconstructs scam attempts using Agentic AI forensics.
 
+visit the site - https://saavi-shield.streamlit.app/
+
 ## 🧠 The Intelligence: Sāvi & Zing
 Our project personifies neural safety to bridge the gap between complex forensics and human intuition:
 * **Sāvi (The Protective Sister):** The Forensics Expert. She performs deep psychological analysis on incoming threats, identifying triggers like *Urgency*, *Fear*, and *Authority*.
